@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heykay-47&label=Profile%20views&color=0e75b6&style=flat" alt="heykay-47" /> </p>
 
-- 🔭 I’m currently working on **VoucherSwap**
+- 🔭 I’m currently working on **Kural**
 
-- 🌱 I’m currently learning **React, node.js, Supabase**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **anything!**
 
