@@ -1,19 +1,87 @@
-<h1 align="center">Hi 👋, I'm Krithik</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heykay-47&label=Profile%20views&color=0e75b6&style=flat" alt="heykay-47" /> </p>
-
-- 🔭 I’m currently working on **Kural**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **anything!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krithik-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krithik-j" height="30" width="40" /></a>
+<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Krithik J</h1>
+<p align="center" style="margin-top: 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%E2%80%A2+AI+%E2%80%A2+Cybersecurity;Building+practical+products+with+modern+web+tech;Open+to+internships+and+software+roles" alt="Typing subtitle" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/krithik-j" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/heykay-47" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://portfolio.adguardian.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="mailto:krithick008@proton.me"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+<hr />
+
+## 👨‍💻 About Me
+
+I’m a Computer Science Engineering student at SASTRA Deemed University who likes building useful products, not just demo projects. My focus is on **full-stack development with AI**, and I enjoy turning ideas into clean, practical tools that people can actually use.
+
+I work mostly with **JavaScript, Python, and C++**, and I like building with **React, Next.js, Node.js, Express, FastAPI, and modern databases**. I’m also interested in system design, shipping fast, and improving the polish of everything I build.
+
+Right now I’m focused on becoming a strong software engineer, leveling up my projects, and building a portfolio that shows real problem-solving, not just random experiments.
+
+<hr />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,linux" />
+</div>
+
+<hr />
+
+## 🚀 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Intelligent RAG Agent</strong></td>
+      <td>AI workflow built with Python, LangGraph, LangChain, and Gemini for smarter document retrieval and better summaries.</td>
+    </tr>
+    <tr>
+      <td><strong>Telecode</strong></td>
+      <td>Telegram bot that shares LeetCode problems daily to keep consistent with DSA practice.</td>
+    </tr>
+    <tr>
+      <td><strong>VouchIt</strong></td>
+      <td>Community-driven voucher donation platform focused on giving unused brand vouchers a second life.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+## 🎯 What I’m Looking For
+
+I’m looking for internships and entry-level software roles where I can build real products, learn from strong engineers, and grow fast. I’m especially interested in opportunities around full-stack development, AI applications, and products that solve practical problems.
+
+<hr />
+
+## 📚 Currently Improving
+
+- DSA and interview preparation
+- System design fundamentals
+- Building production-ready full-stack apps
+- Better UI/UX and cleaner code architecture
+- AI integrations in real products
+
+<hr />
+
+## 📫 Let’s Connect
+
+If you’d like to collaborate, review a project, or talk about internships and software roles, feel free to reach out through LinkedIn or email.
+
+<p align="center">
+  <i>Building consistently, learning fast, and shipping better every week.</i>
+</p>
